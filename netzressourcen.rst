@@ -1,7 +1,7 @@
 .. link:
 .. description:
 .. tags:
-.. date: 2016/04/08 11:00:00
+.. date: 2016/04/11 12:00:00
 .. title: Netzressourcen
 .. slug: netzressourcen
 
@@ -20,6 +20,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 Podcasts
 
 * Chaos Radio `CR <http://chaosradio.ccc.de/>`_
-* Chaos Radio Express 'CRE <http://cre.fm/>`_
-* Lets Netz 'Chaos Talk Salzburg <http://cba.fro.at/series/lets-netz-der-chaostalk-technik-web-politik/feed>`_
-* Ö1 Digital Leben '<http://oe1.orf.at/digitalleben>`_
+* Chaos Radio Express `CRE <http://cre.fm/>`_
+* Lets Netz `Chaos Talk Salzburg <http://sbg.chaostreff.at/projects/letsnetz/>`_
+* Ö1 Digital Leben `Ö1 <http://oe1.orf.at/digitalleben>`_

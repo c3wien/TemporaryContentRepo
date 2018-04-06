@@ -1,6 +1,6 @@
 ### Was ist Hacking (und ist es auch das, was uns die Medien darüber erzählen)?
 
-Es kann gut sein, dass du beim Lesen dieser Frage gleich weiterspringen möchtest, weil du denkst - klar, heute weiß doch jeder was Hacking ist! Jedoch gehen die Definition des Wortes wie es Hacker selbst verwenden und wie es in den Medien verwendet wird sehr stark auseinander. In den Medien ist das Wort Hacking praktisch synonym mit Computereinbruch bzw. der (negativ konnotierten) Außeinandersetzung mit Computersicherheit. Das ist aber sehr irreführend und im Prinzip so als ob man dass Wort Freizeitgestaltung mit Fußball synonym verwenden würde. Vielmehr muss Hacking auch gar nichts mit Computern oder nicht einmal mit Technik zu tun haben, denn das Themenfeld ist bei Hacking reine Nebensache.
+Es kann gut sein, dass du beim Lesen dieser Frage gleich weiterspringen möchtest, weil du denkst - klar, heute weiß doch jeder was Hacking ist! Jedoch gehen die Definition des Wortes wie es Hacker selbst verwenden und wie es in den Medien verwendet wird sehr stark auseinander. In den Medien ist das Wort Hacking praktisch synonym mit Computereinbruch bzw. der (negativ konnotierten) Außeinandersetzung mit Computersicherheit. Das ist aber sehr irreführend und im Prinzip so als ob man dass Wort Freizeitgestaltung mit Tischtennis synonym verwenden würde. Vielmehr muss Hacking auch gar nichts mit Computern oder nicht einmal mit Technik zu tun haben, denn das Themenfeld ist bei Hacking reine Nebensache.
 
 **_Ufff, ihr wollt mir also erzählen dass Hacking nichts mit Computern zu tun hat?_**
 
